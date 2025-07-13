@@ -30,19 +30,7 @@ This project uses the dataset provided in the original paper:
 
 > Wang, Z., Hale, S. A., Adelani, D. I., & Hanna, A. (2018). *Protest activity detection and perceived violence estimation from social media images.*
 
-You can download the dataset [here](https://github.com/zhouw12/Protest-Detection-Dataset) or refer to the paper for data access.
-
----
-
-## 📈 Results
-
-| Model           | Accuracy | ROC-AUC |
-| --------------- | -------- | ------- |
-| EfficientNet-B0 | **XX%**  | **YY**  |
-| ResNet-50       | ...      | ...     |
-| VGG16           | ...      | ...     |
-
-> 📌 Visual results (confusion matrix, misclassified examples, Grad-CAM visualizations) can be found in `/results`.
+You can refer to the paper for data access.
 
 ---
 
